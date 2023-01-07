@@ -5,11 +5,14 @@
 }
 .main{text-align: justify;
     display: flex;
+    justify-content: space-between;
     font-weight: 800;
     margin: 0 50px;
     justify-content: space-between;
     background-color: antiquewhite;
 }
+
+/* button */
 .btn-primary{
     font-size: 25px;
     border-radius: 10px;
@@ -106,6 +109,12 @@ main{
     border-radius: 10px;
     text-align: center;
 
+    }
+    /* style title */
+    /* style{ */
+
+        display: -webkit-box;
+        margin-left: auto;
     }
     .form{
         margin-top: 20px;
