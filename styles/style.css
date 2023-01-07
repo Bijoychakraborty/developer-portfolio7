@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.main{text-align: justify;
+    display: flex;
+    font-weight: 800;
+    margin: 0 50px;
+    justify-content: space-between;
+    background-color: antiquewhite;
+}
+.btn-primary{
+    font-size: 25px;
+    border-radius: 10px;
+    font-weight: 300;
+    padding: 20px 20px;
+    background-color: orange;
+}
+.div-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+.image{
+    size: 50px;
+    height: 100;
+
+}
+.banner{
+    display: flex;
+    margin-top: 60px;
+}
+.list{
+    text-align: left;
+    text-decoration: solid;
+    color: rgb(255, 140, 0);
+}
+.lorem{
+    margin: 0 40px;
+    color: grey;
+}
+.section{
+    margin-top: 200px;
+    margin-left: 50px;
+    position: relative;
+}
+.My-Plans{
+
+    margin-top: 130px;
+    
+    border-radius: 10px;
+    padding: 130 150px;
+    text-align: center;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.section-title{
+    font-weight: 80;
+    font-size: 50px;
+    margin-top: 20px;
+}
+.section-description{
+    margin-top: 20px;
+    text-align: justify;
+}
+.plans-info-container{
+    display: flex;
+    margin-top: 25px;
+    text-align: center;
+}
+.info-description{
+    margin-top: 10px;
+    text-align: center;
+}
+.plans-info .info-title{
+    font-size: 25px;
+    color: black;
+    font-weight:20px;
+    margin-left: 50px;
+    
+}.plans-info{
+    margin-right: 50px;
+    
+}
+.show-bg{
+    color: aliceblue;
+    
+    margin: 100px 100px;
+    padding: 100px 200px;
+    text-align: left;
+    background-image: url(../images/gradient1.png), url(../images/watch.png);
+    
+    background-repeat: no-repeat;
+    
+    }
+    .last-section{
+        display: flex;
+        color: antiquewhite;
+        
+        margin: 0px 100px;
+    padding: 80px 100px;
+    background-color: black;
+    
+    border-radius: 10px;
+    text-align: center;
+
+    }
+    .form{
+        margin-top: 20px;
+    }
+  
+    .subscribe{
+        margin: left 100px; ;
+    
+    }
+    .future{
+        margin-bottom: 20px;
+        mar
+        
+    }
+    .form2{
+        align-items: center;
+        display: flex;
+        justify-items: auto;
+    }
